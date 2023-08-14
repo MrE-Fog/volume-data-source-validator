@@ -7,7 +7,7 @@ require (
 	github.com/kubernetes-csi/external-snapshotter/client/v6 v6.2.0
 	github.com/kubernetes-csi/volume-data-source-validator/client v0.0.0-20221031212045-639c33136c1e
 	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.42.0
 	k8s.io/api v0.27.4
 	k8s.io/apimachinery v0.27.4
